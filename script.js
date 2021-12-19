@@ -1,12 +1,12 @@
-let link=document.querySelector(".link");
-let donateBtn=document.querySelector(".donateBtn");
+let link = document.querySelector(".link");
+let donateBtn = document.querySelector(".donateBtn");
 
-donateBtn.addEventListener("click", function(e){
-    link.href="https://rzp.io/l/K6k9ukt";
+donateBtn.addEventListener("click", function (e) {
+    link.href = "https://rzp.io/l/K6k9ukt";
 });
 var options = {
-    "key": "rzp_test_MWvHEstpsnDD0E", 
-    "amount": "50000", 
+    "key": "rzp_test_MWvHEstpsnDD0E",
+    "amount": "50000",
     "currency": "INR",
     "name": "HelpAge India",
     "description": "DONATE TO HELP ELDERLY AND SENIOR PEOPLE",
