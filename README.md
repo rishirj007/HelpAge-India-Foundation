@@ -1,2 +1,16 @@
 # HelpAge-India-Foundation
-This is Task3 OF My internship at sparks foundation as Web development intern where we have to create a payment gateway intergration on a website using Html,Css,Js,Bootstrap
+#GRIPDEC21 #TASK-3 : Payment-Gateway-Integration
+
+=> Features-
+
+◇ A simple website where payment gateway is integrated.
+
+◇ There is a simple donate button on homepage. On clicking the donate button, the user will land on the payment page where user can select the amount to be paid and the payment type, e.g. credit card, Paypal, etc.
+
+◇ Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.
+
+◇ On any page / email, only basic information is needed.
+
+=> Languages Used: HTML, CSS, BOOTSTRAP, JAVASCRIPT
+
+=> Payement: RazorPay
