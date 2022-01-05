@@ -13,4 +13,4 @@
 
 => Languages Used: HTML, CSS, BOOTSTRAP, JAVASCRIPT
 
-=> Payement: RazorPay
+=> Payment: RazorPay
